@@ -2,6 +2,12 @@ Title:	MultiMarkdown 4.0 ReadMe
 Author:	Fletcher T. Penney  
 Base Header Level:	2  
 
+Fork Note
+===========
+
+This MultiMarkdown-4 repository has been forked to establish a separate Issues area for use by UAB EE433/533
+students as they test the [CriticMarkup support in MultiMarkdown 4.2](http://www-ece.eng.uab.edu/DGreen/ee433/p1.html).
+
 Introduction
 ===============
 
